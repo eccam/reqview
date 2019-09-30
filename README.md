@@ -1,4 +1,4 @@
 ReqView
 =======
 
-[Simple Yet Powerful Requirements Management Tool](https://reqview.com)
+This repository will contains free public resources related to [ReqView — Simple Yet Powerful Requirements Management Tool for Software and Systems Development Projects](https://reqview.com).
