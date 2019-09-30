@@ -1,4 +1,4 @@
-reqview
+ReqView
 =======
 
-Free Requirements Management Tool
+[Simple Yet Powerful Requirements Management Tool](https://reqview.com)
